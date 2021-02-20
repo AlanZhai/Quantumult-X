@@ -7,6 +7,8 @@
 将帮助与反馈修改为离线下载
 ^https:\/\/q.115.com\/mapp\/\?c=feedback&m=index url 307 https://115.com/lx?taskdg=1
 
+2.[MITM]分组添加hostname = *.115.com
+
 3.在115Aapp中通过右上角菜单-帮助与反馈进入离线下载
 
 4.通过快捷指令使115打开离线下载（http://115.com/lx?taskdg=1）
