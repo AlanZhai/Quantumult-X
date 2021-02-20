@@ -1,6 +1,15 @@
-使用方法：
 注意：该脚本无破解离线功能,只是给新版115的App添加创建离线任务的方法。
 
+使用方法：
+
+方法一、远程重写订阅
+
+1.直接在[rewrite_remote]分组下添加
+
+# 115帮助与反馈改离线下载
+https://raw.githubusercontent.com/AlanZhai/Quantumult-X/main/Scripts/115/115lx.conf, tag=115帮助与反馈改离线下载, update-interval=86400, opt-parser=true, enabled=true
+
+方法二、本地重写
 1.在[rewrite_local]分组下添加下面这行配置
 ^http:\/\/115\.com\/lx.*$ url script-response-body https://raw.githubusercontent.com/AlanZhai/Quantumult-X/main/Scripts/115/115lx.js
 
