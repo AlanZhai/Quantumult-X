@@ -2,7 +2,7 @@
 使用方法：
 注意：该脚本无破解离线功能,只是给新版115的App添加创建离线任务的方法。
 1.在[rewrite_local]分组下添加下面这行配置
-^http:\/\/115\.com\/lx.*$ url script-response-body https://raw.githubusercontent.com/AlanZhai/Scripts/main/Quantumult%20X/Script/115lx.js
+^http:\/\/115\.com\/lx.*$ url script-response-body https://raw.githubusercontent.com/AlanZhai/Quantumult-X/main/Scripts/115/115lx.js
 将帮助与反馈修改为离线下载
 ^https:\/\/q.115.com\/mapp\/\?c=feedback&m=index url 307 https://115.com/lx?taskdg=1
 3.在115Aapp中通过右上角菜单-帮助与反馈进入离线下载
