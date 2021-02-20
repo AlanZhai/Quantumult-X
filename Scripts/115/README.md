@@ -26,4 +26,4 @@ hostname = *.115.com
 
 4.通过快捷指令使115打开离线下载（http://115.com/lx?taskdg=1）
 
-快捷指令: https://www.icloud.com/shortcuts/31e3a877cec340a48192aa081e25c05e
+[点击下载快捷指令](https://www.icloud.com/shortcuts/31e3a877cec340a48192aa081e25c05e)
