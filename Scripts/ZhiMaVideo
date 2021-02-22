@@ -1,0 +1,4 @@
+#芝嫲视频获取body
+https:\/\/api\.sxsjyzm\.com\/* url script-request-body https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/zhima.js
+
+hostname=api.sxsjyzm.com
