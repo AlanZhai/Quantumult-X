@@ -1,12 +1,8 @@
-`
-# 获取京东Cookie. 
-https://raw.githubusercontent.com/AlanZhai/Quantumult-X/main/Scripts/JD_DuoHeYi/body.conf, tag=获取京东Cookie, update-interval=86400, opt-parser=true, enabled=true
-`
+`# 获取京东Cookie. 
+https://raw.githubusercontent.com/AlanZhai/Quantumult-X/main/Scripts/JD_DuoHeYi/body.conf, tag=获取京东Cookie, update-interval=86400, opt-parser=true, enabled=true`
 
-`
-获取钢镚签到body. 
-https://raw.githubusercontent.com/AlanZhai/Quantumult-X/main/Scripts/JD_DuoHeYi/cookie.conf, tag=获取钢镚签到body, update-interval=86400, opt-parser=true, enabled=true
-`
+`获取钢镚签到body. 
+https://raw.githubusercontent.com/AlanZhai/Quantumult-X/main/Scripts/JD_DuoHeYi/cookie.conf, tag=获取钢镚签到body, update-interval=86400, opt-parser=true, enabled=true`
 
 初次使用时, app配置文件添加脚本配置, 并启用Mitm后:
 Safari浏览器打开登录 https://home.m.jd.com/myJd/newhome.action 点击"我的"页面
