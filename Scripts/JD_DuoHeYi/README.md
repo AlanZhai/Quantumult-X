@@ -16,3 +16,8 @@ Safari浏览器打开登录 https://home.m.jd.com/myJd/newhome.action 点击"我
 由于cookie的有效性(经测试网页Cookie有效周期最长31天)，如果脚本后续弹出cookie无效的通知，则需要重复上述步骤。 
 签到脚本将在每天的凌晨0:05执行, 您可以修改执行时间。 因部分接口京豆限量领取, 建议调整为凌晨签到。
 BoxJs或QX Gallery订阅地址: `https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json`
+
+```
+# 京东多合一签到
+5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true
+```
