@@ -1,3 +1,6 @@
+`https://raw.githubusercontent.com/AlanZhai/Quantumult-X/main/Scripts/JD_DuoHeYi/body.conf`
+`https://raw.githubusercontent.com/AlanZhai/Quantumult-X/main/Scripts/JD_DuoHeYi/cookie.conf`
+
 初次使用时, app配置文件添加脚本配置, 并启用Mitm后:
 Safari浏览器打开登录 https://home.m.jd.com/myJd/newhome.action 点击"我的"页面
 或者使用旧版网址 https://bean.m.jd.com/bean/signIndex.action 点击签到并且出现签到日历
