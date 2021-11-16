@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/AlanZhai/Quantumult-X/main/Scripts/JD_DuoHeYi/body.conf, tag=获取京东Cookie, update-interval=86400, opt-parser=true, enabled=true
 ```
 ```
-获取钢镚签到body. 
+#获取钢镚签到body. 
 https://raw.githubusercontent.com/AlanZhai/Quantumult-X/main/Scripts/JD_DuoHeYi/cookie.conf, tag=获取钢镚签到body, update-interval=86400, opt-parser=true, enabled=true
 ```
 
